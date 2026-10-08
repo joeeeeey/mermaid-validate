@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mermaid Validate"
+  short_description: "Catch broken diagrams before they reach your README."
+  default_prompt: "Use $mermaid-validate to inspect the requested scope and report verified results."
